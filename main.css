@@ -2,3 +2,8 @@ body {
     background-color: red;
     color: white;
 }
+
+em {
+    font-weight: bold;
+    text-transform: uppercase;
+}
